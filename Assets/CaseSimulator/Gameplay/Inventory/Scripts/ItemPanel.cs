@@ -32,13 +32,13 @@ namespace CaseSimulator.Gameplay.InventorySystem
             _panel.SetActive(true);
             _item.SetItem(itemInfo);
 
-            PlaySound(sounds[1]);
+            //PlaySound(sounds[1]);
         }
 
         public void Hide() 
         {
             _panel.SetActive(false);
-            PlaySound(sounds[2]);
+            //PlaySound(sounds[2]);
         }
 
         public void Sell()
@@ -48,7 +48,7 @@ namespace CaseSimulator.Gameplay.InventorySystem
             _interactor.RemoveItem(_item.ItemInfo);
             _initializer.Initialize();
 
-            PlaySound(sounds[0]);
+            PlaySound(sounds[0], volume : 1.3f);
         }
     }
 }

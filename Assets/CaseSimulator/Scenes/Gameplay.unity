@@ -1615,9 +1615,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - {fileID: 8300000, guid: de7c376a7bad6784dae5beec949f8072, type: 3}
-  - {fileID: 8300000, guid: 2ebf0c0f5a92ce944911f300163f3df9, type: 3}
-  - {fileID: 8300000, guid: 614696aaa474f0541b76d7fc0435b6c7, type: 3}
+  - {fileID: 8300000, guid: c620032980437d445adf1bdd6bec5e89, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
   _initializer: {fileID: 1658806810}
   _interactor: {fileID: 1873586435}
   _panel: {fileID: 1612058429}
@@ -1847,7 +1847,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - {fileID: 8300000, guid: de7c376a7bad6784dae5beec949f8072, type: 3}
+  - {fileID: 8300000, guid: c620032980437d445adf1bdd6bec5e89, type: 3}
   _inventoryInteractor: {fileID: 1873586435}
   _panel: {fileID: 1146356858}
   _item: {fileID: 1750704407}
@@ -3831,7 +3831,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -499.99905, y: 0}
+  m_AnchoredPosition: {x: -500, y: 0}
   m_SizeDelta: {x: 3050, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &473624320
@@ -7826,6 +7826,7 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 170be9a6d4c66b64dabffef768bad06a, type: 3}
     - {fileID: 8300000, guid: dfbfa959e4a4e534aad7494d4695d377, type: 3}
     - {fileID: 8300000, guid: 421889e56e9bf974aa4fd7d32aefbbeb, type: 3}
+    - {fileID: 8300000, guid: 34bc453486901a0488d90187d51b200e, type: 3}
   _animatorBoolName: OnClick
   _multiplier: 2
 --- !u!95 &974016827
@@ -9037,11 +9038,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - {fileID: 8300000, guid: 3557488445e8ce347ac22527310ac0cb, type: 3}
-  - {fileID: 8300000, guid: 3ff2dcc92c7a9e4428e48780ec2adb80, type: 3}
-  - {fileID: 8300000, guid: 60db10434eb546e48804b9b1a0ddaaf0, type: 3}
-  - {fileID: 8300000, guid: 3d3c5833dac5b4c49bacc740643fb175, type: 3}
-  - {fileID: 8300000, guid: 97ce1279d8935414fbd87b5cfe23dc8f, type: 3}
+  - {fileID: 0}
+  - {fileID: 8300000, guid: ec9edb27878487940953934e3d25a149, type: 3}
+  - {fileID: 8300000, guid: 735f84357e84a524784ebe9322515646, type: 3}
+  - {fileID: 8300000, guid: b3e1ffac20caad94cae9cc4313351795, type: 3}
+  - {fileID: 8300000, guid: 51eb7a5fce49a2a44b889b3d49a7e1c6, type: 3}
   _ourGamesUI: {fileID: 143711877}
   _gameUI: {fileID: 726247828}
   _mainCanvas: {fileID: 1421905777}
@@ -10074,8 +10075,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1925367553}
   m_HandleRect: {fileID: 1925367552}
   m_Direction: 0
-  m_Value: -0.00000047637195
-  m_Size: 0.32786885
+  m_Value: 0
+  m_Size: 0.32747126
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -10226,8 +10227,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - {fileID: 8300000, guid: 2ebf0c0f5a92ce944911f300163f3df9, type: 3}
-  - {fileID: 8300000, guid: e2a6d08b7174fe3499d0bccce77dd112, type: 3}
+  - {fileID: 8300000, guid: 695083485e8cf5248ad36637b899c54f, type: 3}
+  - {fileID: 8300000, guid: f8c1365c9b4672542b1d3967e2a4da56, type: 3}
   _spinButton: {fileID: 82499155}
   _backButton: {fileID: 232663121}
   _spinPanel: {fileID: 1013913344}

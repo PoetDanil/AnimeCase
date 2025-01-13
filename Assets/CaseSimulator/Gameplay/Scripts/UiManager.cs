@@ -37,7 +37,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[2], 1f, false, 0.95f, 1f);
+                PlaySound(sounds[2], 1f, false, 0.95f, 1f);          /// Ќакликать
                 _clickerCanvas.gameObject.SetActive(true);
                 _mainCanvas.gameObject.SetActive(true);
                 _caseCanvas.gameObject.SetActive(false);
@@ -50,7 +50,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[4], 1f, false, 0.95f, 1f);
+                PlaySound(sounds[4], 1f, false, 0.95f, 1f);          /// в  кейсы
                 _mainCanvas.gameObject.SetActive(true);
                 _clickerCanvas.gameObject.SetActive(false);
                 _caseCanvas.gameObject.SetActive(true);
@@ -63,7 +63,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[4], 1f, false, 0.95f, 1f);
+                PlaySound(sounds[4], 1f, false, 0.95f, 1f);          /// в  магазин
                 _mainCanvas.gameObject.SetActive(true);
                 _clickerCanvas.gameObject.SetActive(false);
                 _caseCanvas.gameObject.SetActive(false);
@@ -77,7 +77,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[3], 1f, false, 0.95f, 1f);
+                PlaySound(sounds[3], 1f, false, 0.95f, 1f);          /// в  инвентарь
                 _mainCanvas.gameObject.SetActive(true);
                 _clickerCanvas.gameObject.SetActive(false);
                 _caseCanvas.gameObject.SetActive(false);
@@ -90,7 +90,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[4]);
+                PlaySound(sounds[4]);                                 /// в  открывать кейсы
                 _caseCanvas.gameObject.SetActive(false);
                 _spinCanvas.gameObject.SetActive(true);
                 _mainCanvas.gameObject.SetActive(false);
@@ -105,7 +105,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[1]);
+                PlaySound(sounds[1]);                                 /// в  другие кейсы
                 _ourGamesUI.gameObject.SetActive(true);
                 _gameUI.gameObject.SetActive(false);
             }
@@ -115,7 +115,7 @@ namespace CaseSimulator.Gameplay
         {
             if (Time.timeScale == 1)
             {
-                PlaySound(sounds[0], 0.70f, false, 0.85f, 0.95f);
+                PlaySound(sounds[0], 0.70f, false, 0.85f, 0.95f);          /// в  игру
                 _ourGamesUI.gameObject.SetActive(false);
                 _gameUI.gameObject.SetActive(true);
             }

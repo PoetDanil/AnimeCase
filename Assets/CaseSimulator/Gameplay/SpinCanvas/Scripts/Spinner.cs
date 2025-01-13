@@ -34,18 +34,11 @@ namespace CaseSimulator.Gameplay.SpinSystem
             _backButton.gameObject.SetActive(true);
         }
 
-        public void StartSpin() /// ������ ��������
+        public void StartSpin() 
         {
-            PlaySound(sounds[1]);
+            PlaySound(sounds[1], p1 : 0.8f, p2 : 1.2f);
             Bank.RemoveMoney(_spawner.Case.Cost);
-            /*if (!_spawner.Case.IsAdCase)
-            {
-                Spin();
-            }
-            else
-            {
-                Spin();
-            }*/
+
             Spin();
         }
 
@@ -71,7 +64,7 @@ namespace CaseSimulator.Gameplay.SpinSystem
                 {
                     _isSpin = false;
                     _spinSpeed = 0;
-                    PlaySound(sounds[0], 0.90f, false, 0.97f, 1f);
+                    PlaySound(sounds[0], 0.90f, false, 1f, 1f);
                     _winArrow.OnWin();
                 }
             }
