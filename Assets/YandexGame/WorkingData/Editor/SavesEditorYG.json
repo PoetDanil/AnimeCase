@@ -1,5 +1,5 @@
 {
-    "idSave": 27,
+    "idSave": 29,
     "isFirstSession": false,
     "language": "ru",
     "promptDone": false,
@@ -10,11 +10,11 @@
         true,
         false
     ],
-    "Multipler": 7,
+    "Multipler": 8,
     "CurrentSkin": {
-        "instanceID": 21480
+        "instanceID": 24380
     },
     "CurrentClickerSkin": {
-        "instanceID": 21458
+        "instanceID": 24538
     }
 }

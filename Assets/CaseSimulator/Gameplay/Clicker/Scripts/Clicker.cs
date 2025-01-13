@@ -5,7 +5,7 @@ using YG;
 
 namespace CaseSimulator.Gameplay.ClickerSystem
 {
-    public class Clicker : Sounds
+    public class Clicker : NewSouds
     {
         [SerializeField] private string _animatorBoolName = "OnClick";
         [SerializeField] private int _multiplier;
@@ -32,7 +32,7 @@ namespace CaseSimulator.Gameplay.ClickerSystem
         {
             _animator.SetBool(_animatorBoolName, true);
             Bank.AddMoney(_multiplier);
-            PlaySound(sounds[0], 0.80f, false, 0.97f, 1f);
+            PlaySound(0, random: true);
         }
 
         public void StopClickAnim()
