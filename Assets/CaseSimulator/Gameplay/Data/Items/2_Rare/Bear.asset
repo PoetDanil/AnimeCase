@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8138608e1ce6a4faf6bf8e064748b7, type: 3}
   m_Name: Bear
   m_EditorClassIdentifier: 
-  _itemName: "\u041C\u043E\u0440\u043A\u043E\u0432\u043A\u0430"
+  _itemName: "\u041D\u0438\u0447\u0451 \u0442\u0430\u043A\u0430\u044F"
   _cost: 550
-  _itemSprite: {fileID: 21300000, guid: 317bfa22cb6dcb9448df13080c4b1e91, type: 3}
+  _itemSprite: {fileID: 21300000, guid: 366416a1a30ed6f40863e56e47039ff8, type: 3}
   _rarity: {fileID: 11400000, guid: dda440497de392546abc656a8f0ba427, type: 2}

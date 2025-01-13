@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _addedClickPoints: 8
   _skinPrice: 15000
-  _skinSprite: {fileID: 21300000, guid: 573f28f626f39ba41bdd5a19736f2c94, type: 3}
+  _skinSprite: {fileID: 21300000, guid: 193fa63b30905724db072a33843def0f, type: 3}
