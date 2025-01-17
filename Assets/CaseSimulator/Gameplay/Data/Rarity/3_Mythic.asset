@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _rarityName: Mythic
   _dropChance: 10
-  _rarityColor: {r: 1, g: 0, b: 0.042650223, a: 1}
+  _rarityColor: {r: 0.99215686, g: 0.7411765, b: 0.7294118, a: 1}

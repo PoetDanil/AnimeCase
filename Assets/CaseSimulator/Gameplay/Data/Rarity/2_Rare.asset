@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _rarityName: Rare
   _dropChance: 25
-  _rarityColor: {r: 0, g: 0.6765175, b: 1, a: 1}
+  _rarityColor: {r: 1, g: 0.79607844, b: 0.85882354, a: 1}

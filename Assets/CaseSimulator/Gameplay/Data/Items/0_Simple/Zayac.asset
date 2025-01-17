@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8138608e1ce6a4faf6bf8e064748b7, type: 3}
   m_Name: Zayac
   m_EditorClassIdentifier: 
-  _itemName: "\u0414\u044B\u043C\u043E\u0433\u0440\u0438\u0431"
+  _itemName: "\u041C\u0438\u043D\u0438\u043D\u0433\u0438\u0442"
   _cost: 100
-  _itemSprite: {fileID: 21300000, guid: e0ea34e754b6bd342bf12b85eb4bdac6, type: 3}
+  _itemSprite: {fileID: 21300000, guid: de5b77a11e8481c48bcf274ae4bfe868, type: 3}
   _rarity: {fileID: 11400000, guid: b673882f6af81b14d9bb45be737600f3, type: 2}
