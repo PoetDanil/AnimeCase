@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ruName: "\u041A\u0430\u043F\u043B\u0438 \u0416\u0435\u043B\u0430\u043D\u0438\u044F"
   _enName: Gotcha!
-  _cost: 550
+  _cost: 950
   _items:
   - {fileID: 11400000, guid: 1808a06e106364b40a5232adaedc633b, type: 2}
   - {fileID: 11400000, guid: 8f78db61176e5e0429d7e14589ff4e28, type: 2}

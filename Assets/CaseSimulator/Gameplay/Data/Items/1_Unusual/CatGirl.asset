@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _itemName: "\u042F\u0447\u043C\u0435\u043D\u044C"
   _cost: 300
-  _itemSprite: {fileID: 21300000, guid: f299a1ebe88be4145852e14fea052ffa, type: 3}
+  _itemSprite: {fileID: 21300000, guid: d3cfb7d6d6884984b87138d2577fc7cc, type: 3}
   _rarity: {fileID: 11400000, guid: 7cc12af6eb07a124fb0545cbe3a3cb30, type: 2}

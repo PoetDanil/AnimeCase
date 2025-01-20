@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ruName: "\u0414\u043E\u0441\u0442\u0443\u043F\u043D\u044B\u0439 \u0421\u043E\u0431\u043B\u0430\u0437\u043D"
   _enName: The Valiant Zombie
-  _cost: 250
+  _cost: 780
   _items:
   - {fileID: 11400000, guid: 12f32f6503b3de84f9db10fa2c31771c, type: 2}
   - {fileID: 11400000, guid: 075f6e34be5d53c4b97d7463c1a81a33, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ruName: "\u0417\u0430\u0433\u0430\u0434\u043E\u0447\u043D\u044B\u0435 \u041E\u0447\u0435\u0440\u043E\u0432\u0430\u043D\u0438\u044F"
   _enName: An Ordinary Zombie
-  _cost: 175
+  _cost: 500
   _items:
   - {fileID: 11400000, guid: c5d16d0df5298734aa9a3c0383b1e4c6, type: 2}
   - {fileID: 11400000, guid: c77ce08b456da914fa9a6d7a99a1ebb9, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ruName: "\u0422\u0430\u043D\u0435\u0446 \u0421\u043E\u0431\u043B\u0430\u0437\u043D\u0430"
   _enName: Iron
-  _cost: 900
+  _cost: 1300
   _items:
   - {fileID: 11400000, guid: df0a20ddc8fef354b9ad45040504eba3, type: 2}
   - {fileID: 11400000, guid: 2cd0f35bcb7230d4ca2f9e602c84ef41, type: 2}

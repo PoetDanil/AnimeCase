@@ -3832,7 +3832,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -499.99716, y: 0}
+  m_AnchoredPosition: {x: -499.99988, y: 0}
   m_SizeDelta: {x: 3050, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &473624320
@@ -3972,8 +3972,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -24.195013, y: 53}
-  m_SizeDelta: {x: 301.61, y: 347.58}
+  m_AnchoredPosition: {x: 18.74, y: 46.12}
+  m_SizeDelta: {x: 397.02, y: 332.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &491071267
 MonoBehaviour:
@@ -6096,8 +6096,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 48.7}
-  m_SizeDelta: {x: 291.09, y: 312.35}
+  m_AnchoredPosition: {x: 0.0013447, y: 55.38}
+  m_SizeDelta: {x: 350, y: 325.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &788952049
 MonoBehaviour:
@@ -6119,7 +6119,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bf255e9b61f158a499f02d5ffd51cc0d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 410490f2f4dc1f74e827cd5913dc3635, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7982,8 +7982,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 38}
-  m_SizeDelta: {x: 291.09, y: 312.35}
+  m_AnchoredPosition: {x: 5.74, y: 50.21}
+  m_SizeDelta: {x: 408.23, y: 305.14}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &990932909
 MonoBehaviour:
@@ -8005,7 +8005,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f47e12cdfdd03db46971eff2e47a8f3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2fd7d9f6a3e9f5140ab8421d29d10cae, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10077,8 +10077,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1925367553}
   m_HandleRect: {fileID: 1925367552}
   m_Direction: 0
-  m_Value: -0.0000013695695
-  m_Size: 0.32549864
+  m_Value: -0.000000059546487
+  m_Size: 0.32786497
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -11013,8 +11013,8 @@ Transform:
   m_GameObject: {fileID: 1446360516}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -582.97, y: 46.3, z: 0}
-  m_LocalScale: {x: 22.277729, y: 16.743227, z: 179.99998}
+  m_LocalPosition: {x: -545, y: 21.53, z: 0}
+  m_LocalScale: {x: 28.292715, y: 23.942814, z: 179.99998}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 450661969}
@@ -11060,7 +11060,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 92d54321146661c489aa93ea8e244ab8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e56d5a4cdcbfa2940ace8d89600ea249, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -13635,8 +13635,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -31.07, y: 49.58}
-  m_SizeDelta: {x: 350, y: 300}
+  m_AnchoredPosition: {x: 20.76, y: 59.08}
+  m_SizeDelta: {x: 453.66, y: 319}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1872953480
 MonoBehaviour:
@@ -13658,7 +13658,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e2ba4204865355b4c8b6423455c4838b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e453cdff8a761d74ba9487a2afa3db53, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14348,7 +14348,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 230a7e38f98795546b5d1a599d179cdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ruText: "\u0420\u0443\u043B\u0435\u0442\u043A\u0430 18+"
+  _ruText: "\u0420\u0443\u043B\u0435\u0442\u043E\u0447\u043A\u0430"
   _enText: Cases
 --- !u!1 &2017627411
 GameObject:

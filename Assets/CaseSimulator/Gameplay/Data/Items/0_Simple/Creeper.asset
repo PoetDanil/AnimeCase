@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _itemName: 3
   _cost: 100
-  _itemSprite: {fileID: 21300000, guid: a8f37820727df82439db8e05de5e2114, type: 3}
+  _itemSprite: {fileID: 21300000, guid: 776087bc2cb993046b0876c598a8e4e9, type: 3}
   _rarity: {fileID: 11400000, guid: b673882f6af81b14d9bb45be737600f3, type: 2}

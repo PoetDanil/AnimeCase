@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ruName: "\u0421\u043A\u043E\u0440\u043C\u043D\u044B\u0435 \u0423\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0438\u0432\u044F"
   _enName: Argh
-  _cost: 50
+  _cost: 250
   _items:
   - {fileID: 11400000, guid: 097ddb49f520b6e44b5fbd5959260bfc, type: 2}
   - {fileID: 11400000, guid: 0f4f84c8b2c819344bb9e42e0b8ceb71, type: 2}
